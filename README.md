@@ -10,7 +10,7 @@ You will also need your own API key from the Bureau of Labor Statistics, which a
 
 Each pipeline step stores its state in the database (MySQL), making the Java implementation stateless.  Each pipeline step is also idempotent, so it can be run many concurrent times without changing state (i.e. new rows or values will not be added to the database).  This was important for developing and testing.
 
-You'll need to create the database first by running the script dbModel.sql in MySQL.
+You'll need to create the database first by running the script EcolystDbModel.sql in MySQL.  Username/password are root/password.
 
 At this point, downloading quotes from Tiingo takes the most amount of time (about 8 hours), followed by the steps to pivot the data and run the regression.  On that note, these steps may have better performance if executed in another programming language, perhaps Python.
 

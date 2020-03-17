@@ -2,7 +2,7 @@
 
 This project consists of a pipeline that consumes and processes data from the Bureau of Labor Statistics and performs a linear regression with stock quotes from the NYSE since the start of 2015.  This is a Java / Spark / MySQL implementation.
 
-It is meant to act as a platform where more economic reports can be added without breaking existing code.  As such, I will be adding more economic report data over time.  The idea being that the more economic analysis that is contributed, the better the stock price predictions will be.  Altimately it should act as an agent for making daily buy/sell decisions.
+It is meant to act as a platform where more economic reports can be added without breaking existing code.  As such, anyone can more economic report data over time.  The idea being that the more economic analysis that is contributed, the better the stock price predictions will be.  Ultimately it should act as an agent for making daily buy/sell decisions.
 
 The stock market data is downloaded from a Tiingo.com API, where a key is needed.  You will need to buy a key and update the Constants.java file with its value.  A key from Tiingo is $10/month.  Alternatively you can write your own quote class and replace the Tiingo step in the pipeline with your class.
 

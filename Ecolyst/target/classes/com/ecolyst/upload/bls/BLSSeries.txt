@@ -1,0 +1,352 @@
+CPI for All Urban Consumers (CPI-U)
+-----------------------------------
+{"All items","CUUR0000SA0"}
+{"All items less food and energy","CUUR0000SA0L1E"}
+{"Food","CUUR0000SAF1"}
+{"Energy","CUUR0000SA0E"}
+{"Gasoline, all types","CUUR0000SETB01"}
+{"Medical care","CUUR0000SAM"}
+{"Physicians' services","CUUR0000SEMC01"}
+{"Hospital services","CUUR0000SEMD01"}
+{"Prescription drugs","CUUR0000SEMF01"}
+{"Shelter","CUUR0000SAH1"}
+{"CUUR0000SA0L1E","CUUR0000SA0","CUUR0000SAF1","CUUR0000SA0E","CUUR0000SETB01","CUUR0000SAM","CUUR0000SEMC01","CUUR0000SEMD01","CUUR0000SEMF01","CUUR0000SAH1"}
+
+
+CPI for Urban Wage Earners and Clerical Workers (CPI-W)
+-------------------------------------------------------
+{"All items","CWUR0000SA0"}
+{"All items less food and energy","CWUR0000SA0L1E"}
+{"Food","CWUR0000SAF1"}
+{"Energy","CWUR0000SA0E"}
+{"Gasoline, all types","CWUR0000SETB01"}
+{"Medical care","CWUR0000SAM"}
+{"Physicians' services","CWUR0000SEMC01"}
+{"Hospital services","CWUR0000SEMD01"}
+{"Prescription drugs","CWUR0000SEMF01"}
+{"Shelter","CWUR0000SAH1"}
+{"CWUR0000SA0","CWUR0000SA0L1E","CWUR0000SAF1","CWUR0000SA0E","CWUR0000SETB01","CWUR0000SAM","CWUR0000SEMC01","CWUR0000SEMD01","CWUR0000SEMF01","CWUR0000SAH1"}
+
+
+Chained CPI for All Urban Consumers, U.S. city average (C-CPI-U)
+----------------------------------------------------------------
+{"All items","SUUR0000SA0"}
+{"All items less food and energy","SUUR0000SA0L1E"}
+{"Food and beverages","SUUR0000SAF"}
+{"Housing","SUUR0000SAH"}
+{"Apparel","SUUR0000SAA"}
+{"Transportation","SUUR0000SAT"}
+{"Medical care","SUUR0000SAM"}
+{"Recreation","SUUR0000SAR"}
+{"Nondurables","SUUR0000SAN"}
+{"Education and communication","SUUR0000SAE"}
+{"Other goods and services","SUUR0000SAG"}
+{"Energy","SUUR0000SA0E"}
+{"Commodities","SUUR0000SAC"}
+{"Durables","SUUR0000SAD"}
+{"Services","SUUR0000SAS"}
+"SUUR0000SA0","SUUR0000SA0L1E","SUUR0000SAF","SUUR0000SAH","SUUR0000SAA","SUUR0000SAT","SUUR0000SAM","SUUR0000SAR","SUUR0000SAE","SUUR0000SAG","SUUR0000SA0E","SUUR0000SAC","SUUR0000SAS","SUUR0000SAD","SUUR0000SAN"
+
+
+CPI Average Price Data
+----------------------
+{"Bacon, sliced, per lb.","APU0000704111"}
+{"Bananas, per lb.","APU0000711211"}
+{"Bread, white, pan, per lb.","APU0000702111"}
+{"Chicken, fresh, whole, per lb.","APU0000706111"}
+{"Coffee, 100%, ground roast, all sizes, per lb.","APU0000717311"}
+{"Eggs, grade A, large, per doz.","APU0000708111"}
+{"Flour, white, all purpose, per lb.","APU0000701111"}
+{"Milk, fresh, whole, fortified, per gal.","APU0000709112"}
+{"Oranges, navel, per lb.","APU0000711311"}
+{"Rice, white, long grain, uncooked, per lb.","APU0000701312"}
+{"Tomatoes, field grown, per lb.","APU0000712311"}
+{"Electricity per KWH","APU000072610"}
+{"Fuel oil #2 per gallon","APU000072511"}
+{"Gasoline, all types, per gallon","APU00007471A"}
+{"Gasoline, unleaded regular, per gallon","APU000074714"}
+{"APU0000704111","APU0000711211","APU0000702111","APU0000706111","APU0000717311","APU0000708111","APU0000701111","APU0000709112","APU0000711311","APU0000701312","APU0000712311","APU000072610","APU000072511","APU00007471A","APU000074714"}
+
+
+PPI Industry Data (Industry Data, Producer Price Industry Data)
+-----------------
+{"Total manufacturing industries","PCUOMFG--OMFG--"}
+{"Electric power distribution","PCU221122221122"}
+{"Fruit and vegetable canning","PCU311421311421"}
+{"Petroleum lubricating oil & grease mfg","PCU324191324191"}
+{"Industrial gas manufacturing","PCU325120325120"}
+{"Chemical mfg","PCU325---325---"}
+{"Carbon black","PCU3251803251806"}
+{"All other basic organic chemical mfg, primary products","PCU325199325199P"}
+{"Plastics material and resins manufacturing","PCU325211325211"}
+{"Synthetic rubber mfg, primary products","PCU325212325212P"}
+{"Pharmaceutical preparation mfg","PCU325412325412"}
+{"Paint & coating mfg","PCU325510325510"}
+{"Iron & steel mills","PCU331110331110"}
+{"Aluminum sheet, plate & foil mfg","PCU331315331315"}
+{"Sheet metal work mfg","PCU332322332322"}
+{"Hardware mfg","PCU332510332510"}
+{"Other fabricated wire product mfg","PCU332618332618"}
+{"Industrial valve mfg","PCU332911332911"}
+{"Ball and roller bearing mfg","PCU332991332991"}
+{"Construction machinery mfg","PCU333120333120"}
+{"Oil & gas field machinery & equipment mfg","PCU333132333132"}
+{"Turbine & turbine generator set unit mfg","PCU333611333611"}
+{"Capacitor, resistor, coil, transformer, and other mfg","PCU33441K33441K"}
+{"Electric power and specialty transformer mfg","PCU335311335311"}
+{"Switchgear & switchboard apparatus mfg","PCU335313335313"}
+{"Current-carrying wiring device mfg","PCU335931335931"}
+{"Automobile, light truck and utility vehicle mfg","PCU336110336110"}
+{"Aircraft engine & engine parts mfg","PCU336412336412"}
+{"Other aircraft parts & equipment mfg","PCU336413336413"}
+{"Wholesale distribution of drugs and druggists' sundries","PCU4240004240002"}
+{"Wholesale distribution of grocery and related products","PCU4240004240004"}
+{"New car dealers","PCU441110441110"}
+{"Scheduled passenger air transportation","PCU481111481111"}
+{"Line-raul railroads","PCU482111482111"}
+{"Supermarkets and other grocery (exc convenience) stores","PCU445110445110"}
+{"Truck transportation","PCU484---484---"}
+{"General freight trucking, long-distance, truckload","PCU4841214841212"}
+{"Other heavy machinery rental & leasing","PCU532412532412"}
+{"Offices of physicians (exc mental health)","PCU621111621111"}
+{"General medical and surgical hospitals","PCU622110622110"}
+"PCUOMFG--OMFG--","PCU221122221122","PCU311421311421","PCU324191324191","PCU325120325120","PCU325---325---","PCU3251803251806","PCU325199325199P","PCU325211325211","PCU325212325212P","PCU325412325412","PCU325510325510","PCU331110331110","PCU331315331315","PCU332322332322","PCU332510332510","PCU332618332618","PCU332911332911","PCU332991332991","PCU333120333120","PCU333132333132","PCU333611333611","PCU33441K33441K","PCU335311335311","PCU335313335313","PCU335931335931","PCU336110336110","PCU336412336412","PCU336413336413","PCU4240004240002","PCU4240004240004","PCU441110441110","PCU481111481111","aul railroads - PCU482111482111","PCU445110445110","PCU484---484---","PCU4841214841212","PCU532412532412","PCU621111621111","PCU622110622110"
+
+Commodity Data including "headline" FD-ID indexes
+-------------------------------------------------
+{"Final demand","WPUFD4"}
+{"Final demand (seasonally adjusted)","WPSFD4"}
+{"Final demand goods","WPUFD41"}
+{"Final demand foods","WPUFD411"}
+{"Final demand energy","WPUFD412"}
+{"Final demand less foods and energy","WPUFD49104"}
+{"Final demand less foods, energy, & trade services","WPUFD49116"}
+{"Final demand services","WPUFD42"}
+{"Final demand transportation and warehousing","WPUFD422"}
+{"Final demand trade services","WPUFD423"}
+{"Final demand services less trade, trans., wrhsg","WPUFD421"}
+{"Final demand construction","WPUFD43"}
+{"Processed goods for intermediate demand","WPUID61"}
+{"Unprocessed goods for intermediate demand","WPUID62"}
+{"Services for intermediate demand","WPUID63"}
+{"Stage 4 intermediate demand","WPUID54"}
+{"Stage 3 intermediate demand","WPUID53"}
+{"Stage 2 intermediate demand","WPUID52"}
+{"Stage 1 intermediate demand","WPUID51"}
+{"Motor vehicles","WPU1411"}
+{"Pharmaceutical preparations","WPU0638"}
+{"Gasoline","WPU0571"}
+{"Meats","WPU0221"}
+{"Industrial chemicals","WPU061"}
+{"Lumber","WPU081"}
+{"Steel mill products","WPU1017"}
+{"Diesel fuel","WPU057303"}
+{"Prepared animal feeds","WPU029"}
+{"Crude petroleum","WPU0561"}
+{"Grains","WPU012"}
+{"Carbon steel scrap","WPU101211"}
+{"Outpatient healthcare","WPU5111"}
+{"Inpatient healthcare services","WPU5121"}
+{"Food and alcohol retailing","WPU5811"}
+{"Apparel and jewelry retailing","WPU5831"}
+{"Airline passenger services","WPU3022"}
+{"Securities brokerage, investment, and related","WPU4011"}
+{"Business loans (partial)","WPU3911"}
+{"Legal services","WPU4511"}
+{"Truck transportation of freight","WPU3012"}
+{"Machinery and equipment wholesaling","WPU571"}
+{"Finished goods","WPUFD49207"}
+{"Finished goods (seasonally adjusted)","WPSFD49207"}
+{"Finished core","WPUFD4131"}
+{"Finished core (seasonally adjusted)","WPSFD4131"}
+{"All commodities","WPU00000000"}
+{"Industrial commodities","WPU03THRU15"}
+{"WPUFD4","WPSFD4","WPUFD41","WPUFD411","WPUFD412","WPUFD49104","WPUFD49116","WPUFD42","WPUFD422","WPUFD423","WPUFD421","WPUFD43","WPUID61","WPUID62","WPUID63","WPUID54","WPUID53","WPUID52","WPUID51","WPU1411","WPU0638","WPU0571","WPU0221","WPU061","WPU081","WPU1017","WPU057303","WPU029","WPU0561","WPU012","WPU101211","WPU5111","WPU5121","WPU5811","WPU5831","WPU3022","WPU4011","WPU3911","WPU4511","WPU3012","WPU571","WPUFD49207","WPSFD49207","WPUF4131","WPSFD4131","WPU00000000","WPU03THRU15"}
+
+Import/Export Price Indexes
+---------------------------
+{"Imports - Fuels and Lubricants","EIUIR10"}
+{"All Imports Excluding Fuels","EIUIREXFUELS"}
+{"Imports - Foods, Feeds, and Beverages","EIUIR0"}
+{"Imports - Industrial Supplies and Materials","EIUIR1"}
+{"Imports - Capital Goods","EIUIR2"}
+{"Imports - Automotive Vehicles","EIUIR3"}
+{"Imports - Consumer Goods","EIUIR4"}
+{"Exports - All Commodities","EIUIQ"}
+{"Exports - Agricultural Commodities","EIUIQAG"}
+{"Exports - Nonagricultural Commodities","EIUIQEXAG"}
+{"Exports - Foods, Feeds, and Beverages","EIUIQ0"}
+{"Exports - Industrial Supplies and Materials","EIUIQ1"}
+{"Exports - Capital Goods","EIUIQ2"}
+{"Exports - Automotive Vehicles","EIUIQ3"}
+{"Exports - Consumer Goods","EIUIQ4"}
+{"Terms of Trade - Canada - All Industries","EIUCTCANTOT"}
+{"Terms of Trade - European Union - All Industries","EIUCTEECTOT"}
+{"Terms of Trade - Mexico - All Industries","EIUCTMEXTOT"}
+{"Terms of Trade - China - All Industries","EIUCTCHNTOT"}
+{"Terms of Trade - Japan - All Industries","EIUCTJPNTOT"}
+{"Locality of Origin - Canada - All Industries","EIUCOCANTOT"}
+{"Imports - All Commodities","EIUIR"}
+{"Locality of Origin - European Union - All Industries","EIUCOEECTOT"}
+{"Locality of Origin - Mexico - All Industries","EIUCOMEXTOT"}
+{"Locality of Origin - China - All Industries","EIUCOCHNTOT"}
+{"Locality of Origin - Japan - All Industries","EIUCOJPNTOT"}
+{"Locality of Destination - Canada - All Industries","EIUCDCANTOT"}
+{"Locality of Destination - European Union - All Industries","EIUCDEECTOT"}
+{"Locality of Destination - Mexico - All Industries","EIUCDMEXTOT"}
+{"Locality of Destination - China - All Industries","EIUCDCHNTOT"}
+{"Locality of Destination - Japan - All Industries","EIUCDJPNTOT"}
+{"Import Air Passenger Fares","EIUIV142"}
+{"Export Air Passenger Fares","EIUIH142"}
+{"Import Air Freight","EIUIV131"}
+{"Export Air Freight","EIUIH231"}
+{"EIUIR10","EIUIREXFUELS","EIUIR0","EIUIR1","EIUIR2","EIUIR3","EIUIR4","EIUIQ","EIUIQAG","EIUIQEXAG","EIUIQ0","EIUIQ1","EIUIQ2","EIUIQ3","EIUIQ4","EIUTCANTOT","EIUCTEECTOT","EIUCTMEXTOT","EIUCTCHNTOT","EIUCTJPNTOT","EIUCOCANTOT","EIUIR","EIUCOEECTOT","EIUCOMEXTOT","EIUCOCHNTOT","EIUCOJPNTOT","EIUCDCNTOT","EIUCDEECTOT","EIUCDMEXTOT","EIUCDCHNTOT","EIUCDJPNTOT","EIUIV142","EIUIH142","EIUIV131","EIUIH231"}
+
+Employment, Hours, and Earnings - National
+------------------------------------------
+{"Total Nonfarm Employment, Seasonally Adjusted","CES0000000001"}
+{"Manufacturing Employment, Seasonally Adjusted","CES3000000001"}
+{"Total Private Employment, Seasonally Adjusted","CES0500000001"}
+{"Government Employment, Seasonally Adjusted","CES9000000001"}
+{"Total Private Average Hourly Earnings of All Employees, Seasonally Adjusted","CES0500000003"}
+{"Total Nonfarm Employment, Not Seasonally Adjusted","CEU0000000001"}
+{"Construction Employment, Seasonally Adjusted","CES2000000001"}
+{"Oil and Gas Extraction Employment, Seasonally Adjusted","CES1021100001"}
+{"Professional and Business Services Employment, Seasonally Adjusted","CES6000000001"}
+{"Leisure and Hospitality Employment, Seasonally Adjusted","CES7000000001"}
+{"Other Services Employment, Seasonally Adjusted","CES8000000001"}
+{"Mining and Logging Employment, Seasonally Adjusted","CES1000000001"}
+{"Financial Activities Employment, Seasonally Adjusted","CES5500000001"}
+{"Education and Health Services Employment, Seasonally Adjusted","CES6500000001"}
+{"Information Employment, Seasonally Adjusted","CES5000000001"}
+{"Total Private Average Weekly Hours of All Employees, Seasonally Adjusted","CES0500000002"}
+{"Primary Metals Average Weekly Hours of All Employees, Seasonally Adjusted","CES3133100002"}
+{"Textile Mills Average Weekly Hours of All Employees, Seasonally Adjusted","CES3231300002"}
+{"Retail Trade Employment, Seasonally Adjusted","CES4200000001"}
+{"Fabricated Metal Products Average Weekly Hours of All Employees, Seasonally Adjusted","CES3133200002"}
+{"Paper and Paper Products Average Weekly Hours of All Employees, Seasonally Adjusted","CES3232200002"}
+{"Education and Health Services Average Weekly Hours of All Employees, Not Seasonally Adjusted","CEU6500000002"}
+{"Printing and Related Support Activities Average Weekly Hours of All Employees, Seasonally Adjusted","CES3232300002"}
+{"Total Private Employment, Not Seasonally Adjusted","CEU0500000001"}
+{"Total Private Average Hourly Earnings of Production and Nonsupervisory Employees, Seasonally Adjusted","CES0500000008"}
+{"CES0000000001","CES3000000001","CES0500000001","CES9000000001","CES0500000003","CEU0000000001","CES2000000001","CES1021100001","CES6000000001","CES7000000001","CES8000000001","CES1000000001","CES5500000001","CES6500000001","CES5000000001","CES0500000002","CES3133100002","CES3231300002","CES4200000001","CES3133200002","CES3232200002","CEU6500000002","CES3232300002","CEU0500000001","CES0500000008"}
+ 
+Labor Force Statistics from the current Population Survey
+---------------------------------------------------------
+{"Civilian Labor Force Level","LNS11000000"}
+{"Civilian Labor Force Participation Rate","LNS11300000"}
+{"Employment Level","LNS12000000"}
+{"Employment-Population Ratio","LNS12300000"}
+{"Employed, Usually Work Full Time","LNS12500000"}
+{"Employed, Usually Work Part Time","LNS12600000"}
+{"Unemployment Level","LNS13000000"}
+{"Unemployment Rate","LNS14000000"}
+{"Unemployment Rate - 16-19 Years","LNS14000012"}
+{"Unemployment Rate - 20 Years & Over Men","LNS14000025"}
+{"Unemployment Rate - 20 Years & Over Women","LNS14000026"}
+{"Unemployment Rate","White","LNS14000003"}
+{"Unemployment Rate","Black or African American","LNS14000006"}
+{"Unemployment Rate","Asian","LNS14032183"}
+{"Unemployment Rate","Hispanic or Latino","LNS14000009"}
+{"Unemployment Rate","25 Years & Over, Less than a High School Diploma","LNS14027659"}
+{"Unemployment Rate","25 Years & Over, High School Graduates No College","LNS14027660"}
+{"Unemployment Rate","25 Years & Over, Some College or Associate Degree","LNS14027689"}
+{"Unemployment Rate","25 Years & Over, Bachelor's Degree and Higher","LNS14027662"}
+{"Number Unemployed For Less Than 5 weeks","LNS13008396"}
+{"Number Unemployed For - 4 Weeks","LNS13008756"}
+{"Number Unemployed For 15 Weeks & Over","LNS13008516"}
+{"Number Unemployed For 27 Weeks & Over","LNS13008636"}
+{"Average Weeks Unemployed","LNS13008275"}
+{"Median Weeks Unemployed","LNS13008276"}
+{"Unemployment Level Job Losers","LNS13023621"}
+{"Unemployment Level Job Losers On Layoff","LNS13023653"}
+{"Unemployment Level Job Losers Not on Layoff","LNS13025699"}
+{"Unemployment Level Job Leavers","LNS13023705"}
+{"Unemployment Level Reentrants To Labor Force","LNS13023557"}
+{"Unemployment Level New Entrants","LNS13023569"}
+{"Persons At Work Part Time for Economic Reasons","LNS12032194"}
+{"Not in Labor Force","LNS15000000"}
+{"Marginally Attached to Labor Force","LNU05026642"}
+{"Discouraged Workers","LNU05026645"}
+{"Alternative measure of labor underutilization "," - LNS13327709"}
+{"Multiple Jobholders Level","LNS12026619"}
+{"Multiple Jobholders as a Percent of Total Employed","LNS12026620"}
+{"Employment Level, Nonag. Industries, With a Job not at Work, Bad Weather","LNU02036012"}
+{"Employment Level, Nonag. Industries, At Work - 4 Hrs, Usually Work Full time, Bad Weather","LNU02033224"}
+{"LNS11000000","LNS11300000","LNS12000000","LNS12300000","LNS12500000","LNS12600000","LNS13000000","LNS14000000","LNS14000012","LNS14000025","LNS14000026","LNS14000003","LNS14000006","LNS14032183","LNS14000009","LNS14027659","LNS14027660","LNS14027689","LNS14027662","LNS13008396","LNS13008756","LNS13008516","LNS13008636","LNS13008275","LNS13008276","LNS13023621","LNS13023653","LNS13025699","LNS13023705","LNS13023557","LNS13023569","LNS12032194","LNS15000000","LNU05026642","LNU05026645","LNS13327709","LNS12026619","LNS12026620","LNU02036012","LNU02033224"}
+
+Business Employment Dynamics
+----------------------------
+{"Total Private Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110001LQ5"}
+{"Total Private Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110004LQ5"}
+{"Total Private Establishments Gaining Jobs (Seasonally Adjusted)","BDS0000000000000000120001LQ5"}
+{"Total Private Establishments Losing Jobs (Seasonally Adjusted)","BDS0000000000000000120004LQ5"}
+{"Manufacturing Gross Job Gains (Seasonally Adjusted)","BDS0000000000100030110001LQ5"}
+{"Manufacturing Gross Job Losses (Seasonally Adjusted)","BDS0000000000100030110004LQ5"}
+{"Manufacturing Establishments Gaining Jobs (Seasonally Adjusted)","BDS0000000000100030120001LQ5"}
+{"Manufacturing Establishments Losing Jobs (Seasonally Adjusted)","BDS0000000000100030120004LQ5"}
+{"Information Gross Job Gains (Seasonally Adjusted)","BDS0000000000200050110001LQ5"}
+{"Information Gross Job Losses (Seasonally Adjusted)","BDS0000000000200050110004LQ5"}
+{"Information Establishments Gaining Jobs (Seasonally Adjusted)","BDS0000000000200050120001LQ5"}
+{"Information Establishments Losing Jobs (Seasonally Adjusted)","BDS0000000000200050120004LQ5"}
+{"Goods-producing Gross Job Gains (Seasonally Adjusted)","BDS0000000000100000110001LQ5"}
+{"Goods-producing Gross Job Losses (Seasonally Adjusted)","BDS0000000000100000110004LQ5"}
+{"Goods-producing Establishments Gaining Jobs (Seasonally Adjusted)","BDS0000000000100000120001LQ5"}
+{"Goods-producing Establishments Losing Jobs (Seasonally Adjusted)","BDS0000000000100000120004LQ5"}
+{"Service-providing Gross Job Gains (Seasonally Adjusted)","BDS0000000000200000110001LQ5"}
+{"Service-providing Gross Job Losses (Seasonally Adjusted)","BDS0000000000200000110004LQ5"}
+{"Service-providing Establishments Gaining Jobs (Seasonally Adjusted)","BDS0000000000200000120001LQ5"}
+{"Service-providing Establishments Losing Jobs (Seasonally Adjusted)","BDS0000000000200000120004LQ5"}
+{"Firm Size Class 1 to 4 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110101LQ5"}
+{"Firm Size Class 1 to 4 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110104LQ5"}
+{"Firm Size Class 5 to 9 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110201LQ5"}
+{"Firm Size Class 5 to 9 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110204LQ5"}
+{"Firm Size Class 10 to 19 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110301LQ5"}
+{"Firm Size Class 10 to 19 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110304LQ5"}
+{"Firm Size Class 20 to 49 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110401LQ5"}
+{"Firm Size Class 20 to 49 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110404LQ5"}
+{"Firm Size Class 50 to 99 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110501LQ5"}
+{"Firm Size Class 50 to 99 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110504LQ5"}
+{"Firm Size Class 100 to 249 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110601LQ5"}
+{"Firm Size Class 100 to 249 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110604LQ5"}
+{"Firm Size Class 250 to 499 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110701LQ5"}
+{"Firm Size Class 250 to 499 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110704LQ5"}
+{"Firm Size Class 500 to 999 employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110801LQ5"}
+{"Firm Size Class 500 to 999 employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110804LQ5"}
+{"Firm Size Class 1,000 or more employees Gross Job Gains (Seasonally Adjusted)","BDS0000000000000000110901LQ5"}
+{"Firm Size Class 1,000 or more employees Gross Job Losses (Seasonally Adjusted)","BDS0000000000000000110904LQ5"}
+{"BDS0000000000000000110001LQ5","BDS0000000000000000110004LQ5","BDS0000000000000000120001LQ5","BDS0000000000000000120004LQ5","BDS0000000000100030110001LQ5","BDS0000000000100030110004LQ5","BDS0000000000100030120001LQ5","BDS0000000000100030120004LQ5","BDS0000000000200050110001LQ5","BDS0000000000200050110004LQ5","BDS0000000000200050120001LQ5","BDS0000000000200050120004LQ5","BDS0000000000100000110001LQ5","BDS0000000000100000110004LQ5","BDS0000000000100000120001LQ5","BDS0000000000100000120004LQ5","BDS0000000000200000110001LQ5","BDS0000000000200000110004LQ5","BDS0000000000200000120001LQ5","BDS0000000000200000120004LQ5","BDS0000000000000000110101LQ5","BDS0000000000000000110104LQ5","BDS0000000000000000110201LQ5","BDS0000000000000000110204LQ5","BDS0000000000000000110301LQ5","BDS0000000000000000110304LQ5","BDS0000000000000000110401LQ5","BDS0000000000000000110404LQ5","BDS0000000000000000110501LQ5","BDS0000000000000000110504LQ5","BDS0000000000000000110601LQ5","BDS0000000000000000110604LQ5","BDS0000000000000000110701LQ5","BDS0000000000000000110704LQ5","BDS0000000000000000110801LQ5","BDS0000000000000000110804LQ5","BDS0000000000000000110901LQ5","BDS0000000000000000110904LQ5"}
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -16,12 +16,7 @@ public class StockSymbol {
 	
 	static Logger logger = Logger.getLogger("com.blsProcessor");
 	
-	
-	
-
-	private static List<StockSymbol> upprocessedlist = null;
 	private static List<StockSymbol> list = null;
-//	private static List<StockSymbol> analysableList = null;
 
 	private int id;
 	private int market_id;

@@ -22,12 +22,15 @@ You'll need to create the database first by running the script EcolystDbModel.sq
 
 At this point, downloading quotes from Tiingo takes the most amount of time (about 8 hours), followed by the steps to pivot the data and run the regression.  
 
-Future work
- - Data manipulation in Java is slow, and it may be better handled in Python
+#Future work
+ - Data manipulation and regression in Java is slow, and it may be better handled in Python
  
  - Currently only stock market data is retrieved for dates of BLS reports.  All data should be received for every day.
  
- - A scheduling system needs to be put in place for end-of-day stock market data.  Currently the time frame is 2015-01-01 to current date.
+ - This code should be deployed to an application server, allowing for scheduling and a UI (next point)
  
- - A scheduling system needs to be put in place for BLS data, to ensure we have it as soon as its released.
+ - A scheduling system needs to be put in place for end-of-day stock market data, and for retrieving BLS data.  Currently the time frame is 2015-01-01 to current date, and is run on-demand
+ 
+ - Create a UI 
+
 
